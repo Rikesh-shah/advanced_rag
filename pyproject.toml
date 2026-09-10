@@ -31,10 +31,6 @@ dependencies = [
    "competitor-check",
    "detect-jailbreak",
    "guardrails-ai>=0.10.2",
-   "guardrails-pii",
-   "response-evaluator",
-   "restricttotopic",
-   "toxic-language",
    "flashrank>=0.2.10",
    "langchain-cohere>=0.5.1",
 ]
